@@ -1,0 +1,22 @@
+{
+  "name": "DataPacker",
+  "keywords": "Uncategorized",
+  "description": "C++ library for packing data, provides checksum",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/maisonsmd"
+  },
+  "authors": 
+  [
+    {
+      "name": "maisonsmd",
+      "email": "maisonsmd@gmail.com",
+      "url": "https://github.com/maisonsmd",
+      "maintainer": true
+    }
+  ],
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
